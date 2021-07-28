@@ -1,6 +1,6 @@
 # HackerRank-Counting-Valleys
 
-Para ejecutar el script en la consola escribir : node roads.js  
+Para ejecutar el script en la consola escribir : node roads.js  // Requiere Node instalado 
 
 Problem 
 
